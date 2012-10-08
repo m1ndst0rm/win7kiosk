@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kiosk.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AllowDownload" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AllowFileInBrowser" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="InactiveResetTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="HomeUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.google.nl</Value>
+    </Setting>
+    <Setting Name="BlockedDownloadMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Downloading of files is prohibited.</Value>
+    </Setting>
+    <Setting Name="AllowFileInBrowserMimeTypes" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">application/pdf;application/msword;application/vnd.openxmlformats-officedocument.wordprocessingml.document</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">changeme</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

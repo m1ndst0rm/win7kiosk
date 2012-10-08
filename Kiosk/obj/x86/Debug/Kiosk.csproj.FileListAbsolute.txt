@@ -1,0 +1,6 @@
+C:\Users\selenj.KEMPEL\Documents\Visual Studio 2010\Projects\Test\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+C:\Users\selenj.KEMPEL\Documents\Visual Studio 2010\Projects\Test\Kiosk\Kiosk\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\selenj.KEMPEL\Documents\Visual Studio 2010\Projects\Test\Kiosk\Kiosk\obj\x86\Debug\Kiosk.csproj.ResolveComReference.cache
+C:\Users\selenj.KEMPEL\Documents\GitHub\win7kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+C:\Users\selenj.KEMPEL\Documents\GitHub\win7kiosk\Kiosk\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\selenj.KEMPEL\Documents\GitHub\win7kiosk\Kiosk\obj\x86\Debug\Kiosk.csproj.ResolveComReference.cache
